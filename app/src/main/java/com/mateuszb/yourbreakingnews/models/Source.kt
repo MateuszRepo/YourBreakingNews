@@ -1,4 +1,4 @@
-package com.mateuszb
+package com.mateuszb.yourbreakingnews.models
 
 data class Source(
     val id: Any,
