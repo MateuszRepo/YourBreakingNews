@@ -1,6 +1,6 @@
 # Your Breaking News
 
-## MVVM, ROOM, NETWORK, RETROFIT, LIVEDATA, COROUTINES, NAVIGATION KOMPONENTS
+## MVVM, ROOM, NETWORK, RETROFIT, LIVEDATA, COROUTINES, NAVIGATION COMPONENTS
 
 ### Read breaking news and search for articles you are intrested in.
 ### Store your favorites news in local database by clicking Floating Action Button in ArticleFragment
